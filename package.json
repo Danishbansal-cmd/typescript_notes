@@ -1,0 +1,14 @@
+{
+  "name": "typescript_notes",
+  "version": "1.0.0",
+  "description": "These are the notes and for the learning purposes only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danish Bansal",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
